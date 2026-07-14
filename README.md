@@ -244,7 +244,17 @@ A `backend/.env.example` file is included as a template. Never commit a real API
 
 ## Screenshots
 
-Screenshots will be added here.
+**Landing page and empty state**
+
+![Landing page](docs/screenshots/landing.png)
+
+**Completed review with the Judge's verdict and per-agent severity bars**
+
+![Review results](docs/screenshots/results.png)
+
+**Expanded agent findings, showing the Security agent's detailed suggestions**
+
+![Agent detail view](docs/screenshots/agent-detail.png)
 
 ## License
 
